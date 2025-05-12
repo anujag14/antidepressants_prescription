@@ -23,9 +23,9 @@ health and demonstrates how data science can be applied practically in healthcar
 
 ## 🚀 Features
 
-- 🔍 Exploratory data analysis of 4 years of real NHS antidepressant prescription data  
-- 📈 Dynamic visualizations (bar charts, line plots, boxplots) for trends, volume, and costs  
-- 🧠 Identification of top prescribed drugs and costliest medications  
-- 🌍 Regional analysis to highlight NHS region-level differences in prescribing behavior  
-- 📊 Pivot tables and grouped summaries for quick insights  
-- 🔮 Lays the groundwork for forecasting and predictive modeling
+🔍 Exploratory data analysis of 4 years of real NHS antidepressant prescription data  
+📈 Dynamic visualizations (bar charts, line plots, boxplots) for trends, volume, and costs  
+🧠 Identification of top prescribed drugs and costliest medications  
+🌍 Regional analysis to highlight NHS region-level differences in prescribing behavior  
+📊 Pivot tables and grouped summaries for quick insights  
+🔮 Lays the groundwork for forecasting and predictive modeling
